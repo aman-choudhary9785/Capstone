@@ -1,4 +1,4 @@
-# Little Lemon Booking Website
+# Restaurent Booking Website
 
 ## Project Description
 
